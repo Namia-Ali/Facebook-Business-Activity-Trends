@@ -41,8 +41,5 @@ This project analyzes the global business impact of COVID-19, particularly focus
 For more information or collaboration, please reach out to:
 
 **[Your Name]**  
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [nami29221@gmail.com](mailto:nami29221@gmail.com)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
