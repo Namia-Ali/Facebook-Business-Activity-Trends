@@ -40,6 +40,6 @@ This project analyzes the global business impact of COVID-19, particularly focus
 
 For more information or collaboration, please reach out to:
 
-**[Your Name]**  
+**[Namia]**  
 Email: [nami29221@gmail.com](mailto:nami29221@gmail.com)
 
